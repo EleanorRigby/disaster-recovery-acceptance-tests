@@ -6,7 +6,7 @@ import (
 
 	"github.com/cloudfoundry-incubator/disaster-recovery-acceptance-tests/common"
 	"github.com/cloudfoundry-incubator/disaster-recovery-acceptance-tests/runner"
-	"github.com/cloudfoundry-incubator/disaster-recovery-acceptance-tests/testcases"
+	"github.com/eleanorrigby/disaster-recovery-acceptance-tests/testcases"
 	. "github.com/onsi/ginkgo"
 )
 
